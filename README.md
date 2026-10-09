@@ -12,6 +12,13 @@ https://yaqoobdeveloper.github.io/Crypto-Wallet-Login-Screen-with-Swipe-Button-i
 💻 **GitHub Repository:**  
 https://github.com/YaqoobDeveloper/Crypto-Wallet-Login-Screen-with-Swipe-Button-in-Flutter
 
+▶️ **Video Demo:**  
+[https://youtube.com/shorts/_RUTp8ZoNwg](https://youtube.com/shorts/KXyEee28_aQ?feature=share)
+
+## 📸 Preview
+
+<img width="859" height="900" alt="Image" src="https://github.com/user-attachments/assets/f054c017-6762-49b1-b8dc-8304d182becf" />
+
 ## ✨ Features
 
 - 🌙 Dark-only wallet theme with orange and cream accents
